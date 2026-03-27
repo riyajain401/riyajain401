@@ -10,7 +10,7 @@ Hi, I’m Riya Jain 👩‍💻<br>A passionate B.Tech Computer Science student 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=riyajain401&theme=dark&hide_
 
----
-[![](https://visitcount.itsvg.in/api?id=riyajain401&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
