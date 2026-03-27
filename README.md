@@ -11,6 +11,7 @@ Hi, I’m Riya Jain 👩‍💻<br>A passionate B.Tech Computer Science student 
 ![](https://github-readme-stats.vercel.app/api?username=riyajain401&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=riyajain401&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riyajain401&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true
 
 ---
 [![](https://visitcount.itsvg.in/api?id=riyajain401&icon=0&color=0)](https://visitcount.itsvg.in)
