@@ -14,5 +14,6 @@ Hi, I’m Riya Jain 👩‍💻<br>A passionate B.Tech Computer Science student 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=riyajain401&icon=0&color=0)](https://visitcount.itsvg.in)
+![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
